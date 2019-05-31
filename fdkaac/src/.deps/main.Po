@@ -1,0 +1,154 @@
+src/main.o: src/main.c \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/emscripten.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/emscripten/emscripten.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/emscripten/em_asm.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/emscripten/em_js.h \
+  config.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libcxx/stdint.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libcxx/__config \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libc/stdint.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libc/bits/alltypes.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libc/bits/stdint.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libcxx/inttypes.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libc/inttypes.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libc/features.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libcxx/stdio.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libc/stdio.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libcxx/stdlib.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/compat/stdlib.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libc/stdlib.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libc/alloca.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libcxx/string.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/compat/string.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libc/string.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libc/strings.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libcxx/ctype.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/compat/ctype.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libc/ctype.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libcxx/locale.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libc/locale.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libcxx/errno.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libc/errno.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libc/bits/errno.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/compat/sys/stat.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libc/sys/stat.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libc/bits/stat.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libc/getopt.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libc/unistd.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libc/bits/posix.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libc/signal.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libc/bits/signal.h \
+  src/compat.h src/pcm_reader.h src/lpcm.h src/metadata.h src/m4af.h \
+  src/aacenc.h src/aacenc_lib.h src/machine_type.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libcxx/stddef.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libc/stddef.h \
+  src/FDK_audio.h src/genericStds.h src/syslib_channelMapDescr.h \
+  src/progress.h version.h
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/emscripten.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/emscripten/emscripten.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/emscripten/em_asm.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/emscripten/em_js.h:
+
+config.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libcxx/stdint.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libcxx/__config:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libc/stdint.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libc/bits/alltypes.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libc/bits/stdint.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libcxx/inttypes.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libc/inttypes.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libc/features.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libcxx/stdio.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libc/stdio.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libcxx/stdlib.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/compat/stdlib.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libc/stdlib.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libc/alloca.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libcxx/string.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/compat/string.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libc/string.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libc/strings.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libcxx/ctype.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/compat/ctype.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libc/ctype.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libcxx/locale.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libc/locale.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libcxx/errno.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libc/errno.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libc/bits/errno.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/compat/sys/stat.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libc/sys/stat.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libc/bits/stat.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libc/getopt.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libc/unistd.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libc/bits/posix.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libc/signal.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libc/bits/signal.h:
+
+src/compat.h:
+
+src/pcm_reader.h:
+
+src/lpcm.h:
+
+src/metadata.h:
+
+src/m4af.h:
+
+src/aacenc.h:
+
+src/aacenc_lib.h:
+
+src/machine_type.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libcxx/stddef.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libc/stddef.h:
+
+src/FDK_audio.h:
+
+src/genericStds.h:
+
+src/syslib_channelMapDescr.h:
+
+src/progress.h:
+
+version.h:

@@ -1,0 +1,78 @@
+src/pcm_readhelper.o: src/pcm_readhelper.c config.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libcxx/stdint.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libcxx/__config \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libc/stdint.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libc/bits/alltypes.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libc/bits/stdint.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libcxx/stdio.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libc/stdio.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libc/features.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libcxx/stdlib.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/compat/stdlib.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libc/stdlib.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libc/alloca.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libcxx/string.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/compat/string.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libc/string.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libc/strings.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/compat/stdarg.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libc/stdarg.h \
+  src/pcm_reader.h src/lpcm.h src/metadata.h src/m4af.h \
+  src/m4af_endian.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libc/endian.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libc/byteswap.h \
+  src/catypes.h
+
+config.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libcxx/stdint.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libcxx/__config:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libc/stdint.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libc/bits/alltypes.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libc/bits/stdint.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libcxx/stdio.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libc/stdio.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libc/features.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libcxx/stdlib.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/compat/stdlib.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libc/stdlib.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libc/alloca.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libcxx/string.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/compat/string.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libc/string.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libc/strings.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/compat/stdarg.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libc/stdarg.h:
+
+src/pcm_reader.h:
+
+src/lpcm.h:
+
+src/metadata.h:
+
+src/m4af.h:
+
+src/m4af_endian.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libc/endian.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libc/byteswap.h:
+
+src/catypes.h:

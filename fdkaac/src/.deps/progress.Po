@@ -1,0 +1,63 @@
+src/progress.o: src/progress.c \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libcxx/stdint.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libcxx/__config \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libc/stdint.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libc/bits/alltypes.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libc/bits/stdint.h \
+  config.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libcxx/stdio.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libc/stdio.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libc/features.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libcxx/limits.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libc/limits.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libc/bits/limits.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libcxx/float.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libc/float.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libc/bits/float.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/compat/time.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libc/time.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libcxx/inttypes.h \
+  /home/mohit/emsdk/emscripten/1.38.30/system/include/libc/inttypes.h \
+  src/compat.h src/progress.h
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libcxx/stdint.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libcxx/__config:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libc/stdint.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libc/bits/alltypes.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libc/bits/stdint.h:
+
+config.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libcxx/stdio.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libc/stdio.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libc/features.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libcxx/limits.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libc/limits.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libc/bits/limits.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libcxx/float.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libc/float.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libc/bits/float.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/compat/time.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libc/time.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libcxx/inttypes.h:
+
+/home/mohit/emsdk/emscripten/1.38.30/system/include/libc/inttypes.h:
+
+src/compat.h:
+
+src/progress.h:
