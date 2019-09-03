@@ -1,6 +1,9 @@
 # [fdkacc](https://github.com/nu774/fdkaac)
 fdkaac - command line frontend for libfdk-aac encoder. **fdkaac** reads linear PCM audio in either WAV, raw PCM, or CAF format, and encodes it into either M4A / AAC file.
 
+## Porting fdkaac to WebAssembly (emiscripten)
+
+
 # Build system
 Normal fdkaac build
 
